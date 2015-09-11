@@ -1,0 +1,16 @@
+The diff command in Unix compares two files and displays the difference between them line by line. It's a straightforward method.
+
+Having the entire history of programs allows programmer to try different routines more conviniently without the trouble of saving all the
+versions and branches.
+
+Using commit vs auto-backup
+pro: commits are more logical and easy to understand.
+con: programmer need to keep commit in mind and make decision about when to commit.
+
+Git allows multi-file commits because it's more code-oriented. Code files are usually related so commiting them together can ensure that related files are versioned correctly.
+
+Use git log to look at the commit history of files; use git diff to compare the difference between files.
+
+Using version control, we are confident that even something bad happens, the code can be restored to previous version.
+
+I want to work on a project and use git.

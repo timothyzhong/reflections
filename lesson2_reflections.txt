@@ -1,0 +1,1 @@
+A .git file is added to the current directory. It's telling the git system that I want to create a repository here.
