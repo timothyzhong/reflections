@@ -1,1 +1,3 @@
 A .git file is added to the current directory. It's telling the git system that I want to create a repository here.
+
+Staging area contains the files that are changed since the last commit. While working directory has the newest files and files in repository are in status of last commit.
